@@ -1,4 +1,4 @@
-#include <iostream>
+#include <cstdio>
 #include <experimental/contract>
 #include "file2.hpp"
 #include "common.hpp"
